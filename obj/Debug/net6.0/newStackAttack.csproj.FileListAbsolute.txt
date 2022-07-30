@@ -1,0 +1,15 @@
+/Users/David/Desktop/newStackAttack/bin/Debug/net6.0/newStackAttack
+/Users/David/Desktop/newStackAttack/bin/Debug/net6.0/newStackAttack.deps.json
+/Users/David/Desktop/newStackAttack/bin/Debug/net6.0/newStackAttack.runtimeconfig.json
+/Users/David/Desktop/newStackAttack/bin/Debug/net6.0/newStackAttack.dll
+/Users/David/Desktop/newStackAttack/bin/Debug/net6.0/newStackAttack.pdb
+/Users/David/Desktop/newStackAttack/obj/Debug/net6.0/newStackAttack.csproj.AssemblyReference.cache
+/Users/David/Desktop/newStackAttack/obj/Debug/net6.0/newStackAttack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/David/Desktop/newStackAttack/obj/Debug/net6.0/newStackAttack.AssemblyInfoInputs.cache
+/Users/David/Desktop/newStackAttack/obj/Debug/net6.0/newStackAttack.AssemblyInfo.cs
+/Users/David/Desktop/newStackAttack/obj/Debug/net6.0/newStackAttack.csproj.CoreCompileInputs.cache
+/Users/David/Desktop/newStackAttack/obj/Debug/net6.0/newStackAttack.dll
+/Users/David/Desktop/newStackAttack/obj/Debug/net6.0/refint/newStackAttack.dll
+/Users/David/Desktop/newStackAttack/obj/Debug/net6.0/newStackAttack.pdb
+/Users/David/Desktop/newStackAttack/obj/Debug/net6.0/newStackAttack.genruntimeconfig.cache
+/Users/David/Desktop/newStackAttack/obj/Debug/net6.0/ref/newStackAttack.dll
