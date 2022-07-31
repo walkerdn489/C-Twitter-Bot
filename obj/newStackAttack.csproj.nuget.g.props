@@ -12,4 +12,7 @@
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="/Users/David/.nuget/packages/" />
   </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgTweetinviAPI Condition=" '$(PkgTweetinviAPI)' == '' ">/Users/David/.nuget/packages/tweetinviapi/5.0.4</PkgTweetinviAPI>
+  </PropertyGroup>
 </Project>

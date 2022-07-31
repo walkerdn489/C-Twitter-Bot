@@ -1,17 +1,19 @@
-﻿namespace HelloWorld
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
+﻿using Tweetinvi;
+using Tweetinvi.Models;
 
-            Console.WriteLine("What is your name?");
-            var name = Console.ReadLine();
-            var currentDate = DateTime.Now;
-            Console.WriteLine($"{Environment.NewLine}Hello, {name}, on {currentDate:d} at {currentDate:t}!");
-            Console.Write($"{Environment.NewLine}Press any key to exit...");
-            Console.ReadKey(true);
-        }
+
+class Program
+{
+    static async Task Main(string[] args)
+    {
+        var userClient = new TwitterClient(
+            args[0], args[1], args[2], args[3]
+        );
+        var user = await userClient.Users.GetAuthenticatedUserAsync();
+        Console.WriteLine(user);
+        var tweet = await userClient.Tweets.PublishTweetAsync("Pears");
+        Console.WriteLine("You published the tweet : " + tweet);
+
     }
 }
+
