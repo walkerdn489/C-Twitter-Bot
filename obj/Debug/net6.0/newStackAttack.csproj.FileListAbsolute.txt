@@ -24,3 +24,4 @@
 /Users/David/Desktop/newStackAttack/bin/Debug/net6.0/Tweetinvi.WebLogic.dll
 /Users/David/Desktop/newStackAttack/bin/Debug/net6.0/Tweetinvi.dll
 /Users/David/Desktop/newStackAttack/obj/Debug/net6.0/newStackAttack.csproj.CopyComplete
+/Users/David/Desktop/newStackAttack/bin/Debug/net6.0/HtmlAgilityPack.dll
